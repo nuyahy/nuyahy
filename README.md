@@ -191,21 +191,22 @@ Mac                      1 hr 26 mins        ██░░░░░░░░░�
 
 ```mermaid
 mindmap
-  root((小孙同学))
+  root((nuyahy))
     编程
-      Web开发
-      网络爬虫
-      人工智能
+      Java
     摄影
       人文
       建筑
       风景
     旅行
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
+      深圳
+      北京
+      大理
+      重庆
+      成都
+      澳门
+      西双版纳
+      汕头
     阅读
       人物传记
       个人成长
@@ -215,7 +216,7 @@ mindmap
 ```
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/nuyahy/nuyahy/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -283,7 +284,7 @@ mindmap
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/nuyahy/nuyahy/assets/images/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
